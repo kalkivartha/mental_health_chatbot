@@ -13,6 +13,7 @@ mental_health_responses = {
         "Depression can make everything feel heavy. 💔 Please take your time and remember that it's okay to ask for help when you need it.",
         "I understand that you’re struggling. 🖤 It’s okay to not feel okay, and there’s always someone who wants to listen to you.",
         "Depression can make you feel isolated, but you're not alone. 👫 Reach out to those you trust or talk to a professional to guide you.",
+        "I'm really sorry you're feeling this way. 😞 It's important to talk to someone who can provide support, such as a close friend, family member, or mental health professional.",
         "It can be so tough when you’re in a dark place. 😔 Please try to reach out and take small steps to take care of yourself."
     ],
     "anxiety": [
