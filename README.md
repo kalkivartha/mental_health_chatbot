@@ -100,10 +100,9 @@ Contributions are encouraged. To contribute:
 3. Submit a pull request with a detailed description of changes
 
 ---
-
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code with attribution.
+Free to use for educational and personal projects.
 
 ---
 
